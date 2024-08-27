@@ -2,6 +2,7 @@
 
 ### Overview
 This repository contains the implementation of a deep learning approach for predicting air pollution, specifically PM2.5 levels, in the city of Beijing, China. The method utilizes a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks for accurate predictions.
+![image](https://github.com/user-attachments/assets/cca1a26e-a5fb-4df4-87bc-0501dd430cda)
 
 ### Dataset
 The dataset consists of hourly air pollution measurements from 12 monitoring sites in Beijing. Each site provides PM2.5 data along with other air pollutants.
